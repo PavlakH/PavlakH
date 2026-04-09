@@ -45,12 +45,15 @@ Sou apaixonado por tecnologia e estou constantemente buscando evoluir, aprender 
 ---
 
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PavlakH&show_icons=true&theme=dark"/>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PavlakH&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavlakH&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavlakH&layout=compact&theme=dark"/>
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=PavlakH&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---

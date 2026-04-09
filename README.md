@@ -65,7 +65,7 @@ Sou apaixonado por tecnologia e estou constantemente buscando evoluir, aprender 
 
 ## 📫 Contato
 
-- 💼 LinkedIn: [Henrique Pavlak]([url](https://www.linkedin.com/in/pavlakhenrique/pt/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfmGoeBw%2BSSuuqTCA%2FB1Qrw%3D%3D))
+- 💼 LinkedIn: [https://l1nk.dev/pavlakhenrique](https://l1nk.dev/henriquepavlak)
 - 📧 Email: henriquepavlak2017@outlook.com
 ---
 

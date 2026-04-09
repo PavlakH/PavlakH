@@ -27,11 +27,19 @@ Sou apaixonado por tecnologia e estou constantemente buscando evoluir, aprender 
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40"/>
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-line.svg" />
+          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" />
+          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" />
+          
+          
 </p>
 
 ---
@@ -57,9 +65,8 @@ Sou apaixonado por tecnologia e estou constantemente buscando evoluir, aprender 
 
 ## 📫 Contato
 
-- 💼 LinkedIn: (coloca aqui)
-- 📧 Email: (opcional)
-
+- 💼 LinkedIn: [Henrique Pavlak]([url](https://www.linkedin.com/in/pavlakhenrique/pt/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfmGoeBw%2BSSuuqTCA%2FB1Qrw%3D%3D))
+- 📧 Email: henriquepavlak2017@outlook.com
 ---
 
 💻 Sempre buscando evoluir e construir soluções cada vez melhores.
